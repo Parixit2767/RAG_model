@@ -1,0 +1,17 @@
+langchain_community
+langchain_text_splitters
+langchain_ollama
+pypdf
+requests
+bs4
+faiss-cpu
+streamlit
+langchain
+pykernel
+pandas
+numpy
+jq
+pdfplumber
+sentence-transformers
+langchain_huggingface
+
